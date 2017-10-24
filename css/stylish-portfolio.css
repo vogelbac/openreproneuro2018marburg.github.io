@@ -233,17 +233,7 @@ hr.small {
     height: 400px;
     color: #000;
     font-family: 'Comfortaa', cursive;
-    background: url(../img/location.png) no-repeat center center scroll;
-    -webkit-background-size: auto;
-    -moz-background-size: auto;
-    background-size: auto;
-    -o-background-size: auto;
-    display: table;
-    width: 100%;
-    height: 400px;
-    color: #000;
-    font-family: 'Comfortaa', cursive;
-    background: url(../img/location_2.png) no-repeat center center scroll;
+    background: url(../img/location.png) no-repeat left center, url(../img/location_2.png) right center scroll;
     -webkit-background-size: auto;
     -moz-background-size: auto;
     background-size: auto;
