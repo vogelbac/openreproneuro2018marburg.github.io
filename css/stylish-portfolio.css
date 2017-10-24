@@ -238,9 +238,6 @@ hr.small {
     -moz-background-size: auto;
     background-size: auto;
     -o-background-size: auto;
-}
-
-.location_2 {
     display: table;
     width: 100%;
     height: 400px;
