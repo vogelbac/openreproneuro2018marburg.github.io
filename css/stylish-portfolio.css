@@ -307,7 +307,7 @@ hr.small {
 /* Map */
 
 .map {
-    height: 500px;
+    height: 350px;
 }
 
 .map iframe{
@@ -385,7 +385,7 @@ a:focus, a:hover {
         overflow: hidden;
 }
 
-.map iframe {
+.googlemap iframe {
     position: absolute;
     top: 0;
     left: 0;
