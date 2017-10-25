@@ -238,7 +238,7 @@ hr.small {
 }
 
 .persons a:focus, a:hover {
-    /*color: white;*/
+    /*color: red;*/
     text-decoration: underline;
 }
 
