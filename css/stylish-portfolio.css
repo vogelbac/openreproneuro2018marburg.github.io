@@ -236,7 +236,7 @@ hr.small {
     background: url(../img/locations2.png) no-repeat left center scroll;
     -webkit-background-size: auto;
     -moz-background-size: auto;
-    background-size: auto;
+    background-size: cover;
     -o-background-size: auto;
 }
 
