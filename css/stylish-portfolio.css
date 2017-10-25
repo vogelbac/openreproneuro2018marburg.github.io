@@ -229,7 +229,7 @@ hr.small {
 
 .location {
     display: table;
-    width: 100%;
+    width: auto;
     height: 400px;
     color: #000;
     font-family: 'Comfortaa', cursive;
