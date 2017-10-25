@@ -380,6 +380,7 @@ a:focus, a:hover {
 
 .googlemap {
         position: relative;
+	padding-bottom:25%;
         height: 0;
         overflow: hidden;
 }
@@ -389,5 +390,5 @@ a:focus, a:hover {
     top: 0;
     left: 0;
     width: 100% !important;
-    height: 100% !important;
+    height: 40% !important;
 }
