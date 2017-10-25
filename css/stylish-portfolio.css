@@ -226,6 +226,25 @@ hr.small {
     -o-background-size: cover;
 }
 
+/* persons */
+
+.persons {
+    padding: 50px 0;
+	font-family: 'Comfortaa', cursive;
+}
+
+.persons a {
+    color: red;
+}
+
+.persons a:focus, a:hover {
+    /*color: white;*/
+    text-decoration: underline;
+}
+
+.persons-item {
+    margin-bottom: 30px;
+}
 
 .location {
     display: table;
